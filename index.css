@@ -1,0 +1,43 @@
+.orange-star{
+  color: orange;
+}
+
+.image{
+  float: right;
+  margin-right: 10px;
+}
+
+.foot{
+  justify-content: center;
+  display: flex;
+  
+}
+
+.sum{
+  justify-content: center;
+  display: flex;
+}
+
+.edu{
+  justify-content: center;
+  display: flex;
+}
+
+.work{
+  justify-content: center;
+  display: flex;
+}
+
+.ski{
+  justify-content: center;
+  display: flex;
+}
+
+.cert{
+  justify-content: center;
+  display: flex;
+}
+
+.under{
+  text-decoration: underline;
+}
